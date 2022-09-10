@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-"""
-A script that adds the State object “California”
+"""adds the State object “California”
 with the City “San Francisco”
-to the database hbtn_0e_100_usa
-"""
+to the database hbtn_0e_100_usa"""
 
 if __name__ == "__main__":
 

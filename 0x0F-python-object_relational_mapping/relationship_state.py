@@ -6,8 +6,8 @@ from sqlalchemy.ext.declarative import declarative_base
     Module that performs creates a States class based off of Base.
 """
 
-
 Base = declarative_base()
+
 
 class State(Base):
     """
